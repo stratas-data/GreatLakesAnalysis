@@ -52,7 +52,7 @@
 - Once threshold is raised from 99 to 99.9%, clustering becomes strictly national, both in tightness and lack thereof
 
 
-## What's Missing
+## What's Next
 - Mapping trading partners by provnces and states
 - Mapping demographic trends
 - Mapping economics and transportation infrastructure of lakes
